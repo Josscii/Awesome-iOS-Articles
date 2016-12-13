@@ -22,6 +22,10 @@ A collection of the best articles that explaining topics on iOS.
 
 # iOS SDK
 
+## 响应链
+* [史上最详细的iOS之事件的传递和响应机制-原理篇](http://www.jianshu.com/p/2e074db792ba)
+* [iOS事件响应链中Hit-Test View的应用](http://www.jianshu.com/p/d8512dff2b3e)
+
 # Library and Frameworks
 
 # Architecture
