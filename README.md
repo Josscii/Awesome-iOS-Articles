@@ -44,3 +44,4 @@ A collection of the best articles that explaining topics on iOS.
 
 ## 切图
 * [Pixel Density, Demystified(需翻)](https://medium.com/@pnowelldesign/pixel-density-demystified-a4db63ba2922#.z6k6c93ua)
+* [从视觉到App：网易有钱iOS项目切图与适配实践](http://www.infoq.com/cn/articles/netease-ios-vision-to-app/)
