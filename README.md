@@ -41,3 +41,6 @@ A collection of the best articles that explaining topics on iOS.
 # Architecture
 
 # Others
+
+## 切图
+* [Pixel Density, Demystified(需翻)](https://medium.com/@pnowelldesign/pixel-density-demystified-a4db63ba2922#.z6k6c93ua)
