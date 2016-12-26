@@ -43,6 +43,7 @@ A collection of the best articles that explaining topics on iOS.
 
 ### NSNotification
 * [iOS NSNotificationCenter 使用姿势详解](http://www.ifelseboy.com/2015/08/20/ios-nsnotificationcenter-shi-yong-zi-shi-xiang-jie/)
+* [Unregistering NSNotificationCenter Observers in iOS 9](http://useyourloaf.com/blog/unregistering-nsnotificationcenter-observers-in-ios-9/)
 
 # Library and Frameworks
 
