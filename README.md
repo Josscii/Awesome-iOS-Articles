@@ -41,6 +41,10 @@ A collection of the best articles that explaining topics on iOS.
 * [iOS时间那点事](https://my.oschina.net/yongbin45/blog/150114)
 * [iOS关于时间的处理](http://mrpeak.cn/blog/ios-time/)
 
+### Mask
+* [关于使用CALayer中mask的一些技巧](http://joeshang.github.io/2014/12/19/calayer-mask/)
+* [高级mask应用](http://www.cnblogs.com/YouXianMing/p/3788270.html)
+
 ### NSNotification
 * [iOS NSNotificationCenter 使用姿势详解](http://www.ifelseboy.com/2015/08/20/ios-nsnotificationcenter-shi-yong-zi-shi-xiang-jie/)
 * [Unregistering NSNotificationCenter Observers in iOS 9](http://useyourloaf.com/blog/unregistering-nsnotificationcenter-observers-in-ios-9/)
