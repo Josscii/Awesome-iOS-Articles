@@ -73,3 +73,7 @@ A collection of the best articles that explaining topics on iOS.
 * [Pixel Density, Demystified(需翻)](https://medium.com/@pnowelldesign/pixel-density-demystified-a4db63ba2922#.z6k6c93ua)
 * [从视觉到App：网易有钱iOS项目切图与适配实践](http://www.infoq.com/cn/articles/netease-ios-vision-to-app/)
 * [The Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
+
+# Contribution
+
+如果你也想参与其中, 或者对于某个主题有更好的推荐的文章, 欢迎提 issues 或者 pull request!
