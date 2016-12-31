@@ -28,6 +28,11 @@ A collection of the best articles that explaining topics on iOS.
 ### 宏
 * [宏定义的黑魔法 - 宏菜鸟起飞手册](https://onevcat.com/2014/01/black-magic-in-macro/)
 
+### Retain Cycle
+* [iOS 容易引起“循环引用”的几种场景](http://blog.csdn.net/hherima/article/details/39078545)
+* [深入研究Block用weakSelf、strongSelf、@weakify、@strongify解决循环引用](http://www.jianshu.com/p/701da54bd78c)
+* [Tip: Avoid retain cycles without doing the strong to weak dance](http://iosdevtips.co/post/118711491198/avoid-retain-cycles-weak-strong)
+
 # Swift
 
 # iOS SDK
