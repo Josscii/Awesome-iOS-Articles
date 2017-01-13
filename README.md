@@ -60,6 +60,9 @@ A collection of the best articles that explaining topics on iOS.
 ### Xib & StoryBoard
 * [iOS 关于 xib 的那些事](https://gist.github.com/Josscii/cb700299ec8e4cf22af12a9344dd3bf2)
 
+### Core Animation
+* [iOS CoreAnimation专题——总览篇](http://blog.csdn.net/u013282174/article/details/50252455)
+
 # Library and Frameworks
 
 ### Masonry
