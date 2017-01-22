@@ -26,7 +26,7 @@ A collection of the best articles that explaining topics on iOS.
 * [iOS 集合的深复制与浅复制](https://www.zybuluo.com/MicroCai/note/50592)
 
 ### 预编译和宏
-* [The C Preprocessor](https://gcc.gnu.org/onlinedocs/cpp/)
+* [iOS预编译指令详解](http://www.jianshu.com/p/1c71a3c713a4)
 * [宏定义的黑魔法 - 宏菜鸟起飞手册](https://onevcat.com/2014/01/black-magic-in-macro/)
 
 ### Retain Cycle
