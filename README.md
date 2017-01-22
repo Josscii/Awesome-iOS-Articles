@@ -25,7 +25,8 @@ A collection of the best articles that explaining topics on iOS.
 ### Copy & MutableCopy
 * [iOS 集合的深复制与浅复制](https://www.zybuluo.com/MicroCai/note/50592)
 
-### 宏
+### 预编译和宏
+* [The C Preprocessor](https://gcc.gnu.org/onlinedocs/cpp/)
 * [宏定义的黑魔法 - 宏菜鸟起飞手册](https://onevcat.com/2014/01/black-magic-in-macro/)
 
 ### Retain Cycle
