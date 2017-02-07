@@ -64,6 +64,12 @@ A collection of the best articles that explaining topics on iOS.
 ### Core Animation
 * [iOS CoreAnimation专题——总览篇](http://blog.csdn.net/u013282174/article/details/50252455)
 
+### UINavigationController && UINavigationBar
+* [透明与半透明 NavigationBar 切换的三种方案](http://www.jianshu.com/p/e3ca1b7b6cec)
+* [iOS NavigationBar 背景颜色设置方案探究](http://www.jianshu.com/p/6a5552ec5099)
+* [一个丝滑的全屏滑动返回手势](http://blog.sunnyxx.com/2015/06/07/fullscreen-pop-gesture/)
+* [AHKNavigationController](https://github.com/fastred/AHKNavigationController)
+
 # Library and Frameworks
 
 ### Masonry
