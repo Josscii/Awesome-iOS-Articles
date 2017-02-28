@@ -77,6 +77,10 @@ A collection of the best articles that explaining topics on iOS.
 
 # Architecture
 
+### 网络层
+
+* [与时俱进，HTTP/2下的iOS网络层架构设计](http://www.jianshu.com/p/a9bca62d8dab)
+
 # Others
 
 ### 切图
