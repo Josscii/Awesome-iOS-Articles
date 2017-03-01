@@ -70,6 +70,11 @@ A collection of the best articles that explaining topics on iOS.
 * [一个丝滑的全屏滑动返回手势](http://blog.sunnyxx.com/2015/06/07/fullscreen-pop-gesture/)
 * [AHKNavigationController](https://github.com/fastred/AHKNavigationController)
 
+### Text
+
+* [NSParagraphStyle Explained Visually](https://medium.com/@at_underscore/nsparagraphstyle-explained-visually-a8659d1fbd6f#.md3yj2pqw)
+* [UIFont Explained Visually](https://medium.com/@at_underscore/uifont-explained-visually-7de1a9c9f7a1#.5llg1dtv0)
+
 # Library and Frameworks
 
 ### Masonry
