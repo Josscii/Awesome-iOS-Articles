@@ -92,6 +92,7 @@ A collection of the best articles that explaining topics on iOS.
 ### 网络层
 
 * [与时俱进，HTTP/2下的iOS网络层架构设计](http://www.jianshu.com/p/a9bca62d8dab)
+* [对比iOS网络组件：AFNetworking VS ASIHTTPRequest](http://www.infoq.com/cn/articles/afn_vs_asi)
 
 # Others
 
