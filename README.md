@@ -91,6 +91,11 @@ A collection of the best articles that explaining topics on iOS.
 
 * [WKWebView 那些坑](https://zhuanlan.zhihu.com/p/24990222)
 
+### Assets Catalog
+
+* [4 XCODE ASSET CATALOG SECRETS YOU NEED TO KNOW](https://krakendev.io/blog/4-xcode-asset-catalog-secrets-you-need-to-know)
+* [Add a resizable area to an image](http://help.apple.com/xcode/mac/8.3/#/deve65bd8d0d)
+
 # Library and Frameworks
 
 ### Masonry
