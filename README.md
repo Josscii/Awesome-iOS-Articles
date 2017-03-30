@@ -70,6 +70,10 @@ A collection of the best articles that explaining topics on iOS.
 * [一个丝滑的全屏滑动返回手势](http://blog.sunnyxx.com/2015/06/07/fullscreen-pop-gesture/)
 * [AHKNavigationController](https://github.com/fastred/AHKNavigationController)
 
+### UIStatusBar
+
+* [在iOS7中修改状态栏字体的颜色](http://blog.csdn.net/gaoyp/article/details/38441723) [补充](https://gist.github.com/Josscii/51d5154583e38fef24a5380abdb18a0c)
+
 ### Text
 
 * [NSParagraphStyle Explained Visually](https://medium.com/@at_underscore/nsparagraphstyle-explained-visually-a8659d1fbd6f#.md3yj2pqw)
