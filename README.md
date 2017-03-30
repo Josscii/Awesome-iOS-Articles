@@ -80,7 +80,7 @@ A collection of the best articles that explaining topics on iOS.
 * [UIFont Explained Visually](https://medium.com/@at_underscore/uifont-explained-visually-7de1a9c9f7a1#.5llg1dtv0)
 
 ### ViewController Containing
-* [Make automaticallyAdjustsScrollViewInsets Great Again](https://gist.github.com/steipete/5622e0a7e6dd60957a08)
+* [Make `automaticallyAdjustsScrollViewInsets` Great Again](https://gist.github.com/steipete/5622e0a7e6dd60957a08)
 
 ### APNs
 * [基于HTTP2的全新APNs协议](https://github.com/ChenYilong/iOS9AdaptationTips/blob/master/%E5%9F%BA%E4%BA%8EHTTP2%E7%9A%84%E5%85%A8%E6%96%B0APNs%E5%8D%8F%E8%AE%AE/%E5%9F%BA%E4%BA%8EHTTP2%E7%9A%84%E5%85%A8%E6%96%B0APNs%E5%8D%8F%E8%AE%AE.md)
