@@ -95,6 +95,8 @@ A collection of the best articles that explaining topics on iOS.
 
 * [4 XCODE ASSET CATALOG SECRETS YOU NEED TO KNOW](https://krakendev.io/blog/4-xcode-asset-catalog-secrets-you-need-to-know)
 * [Add a resizable area to an image](http://help.apple.com/xcode/mac/8.3/#/deve65bd8d0d)
+* [resizableImageWithCapInsets:方法的探析](http://www.jianshu.com/p/a577023677c1)
+* [补充](https://gist.github.com/Josscii/599c42c684b6ca8dc1831e0a4caed761)
 
 # Library and Frameworks
 
