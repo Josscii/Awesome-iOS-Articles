@@ -84,7 +84,8 @@ A collection of the best articles that explaining topics on iOS.
 
 ### APNs
 * [基于HTTP2的全新APNs协议](https://github.com/ChenYilong/iOS9AdaptationTips/blob/master/%E5%9F%BA%E4%BA%8EHTTP2%E7%9A%84%E5%85%A8%E6%96%B0APNs%E5%8D%8F%E8%AE%AE/%E5%9F%BA%E4%BA%8EHTTP2%E7%9A%84%E5%85%A8%E6%96%B0APNs%E5%8D%8F%E8%AE%AE.md)
-* [iOS推送——本地推送与远程推送详解（一图看懂）](http://www.jianshu.com/p/bcece05517fc)
+* [iOS推送——本地推送与远程推送详解（一图看懂）](http://www.jianshu.com/p/bcece05517fc) `<= iOS 9`
+* [iOS 开发中，怎样用好 Notifications？](http://www.jianshu.com/p/f20b00c1fc24) `iOS 10` 
 * [iOS 新特性更新汇总](http://docs.jiguang.cn/jpush/client/iOS/ios_new_fetures/)
 
 ### UIWebView & WKWebView
