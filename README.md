@@ -99,6 +99,10 @@ A collection of the best articles that explaining topics on iOS.
 * [resizableImageWithCapInsets:方法的探析](http://www.jianshu.com/p/a577023677c1)
 * [补充](https://gist.github.com/Josscii/599c42c684b6ca8dc1831e0a4caed761)
 
+### UIView
+
+* [Tint Color and Template Images](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/UIKitUICatalog/)
+
 # Library and Frameworks
 
 ### Masonry
