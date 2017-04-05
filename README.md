@@ -103,9 +103,10 @@ A collection of the best articles that explaining topics on iOS.
 
 * [Tint Color and Template Images](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/UIKitUICatalog/)
 
-### URL Schemes
+### URL Schemes & Universal Links
 
 * [The Complete Tutorial on iOS/iPhone Custom URL Schemes](http://iosdevelopertips.com/cocoa/launching-your-own-application-via-a-custom-url-scheme.html)
+* [iOS 9.2 Update: The Fall of URI Schemes and the Rise of Universal Links](https://blog.branch.io/ios-9.2-redirection-update-uri-scheme-and-universal-links/)
 
 # Library and Frameworks
 
