@@ -103,6 +103,10 @@ A collection of the best articles that explaining topics on iOS.
 
 * [Tint Color and Template Images](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/UIKitUICatalog/)
 
+### URL Schemes
+
+* [The Complete Tutorial on iOS/iPhone Custom URL Schemes](http://iosdevelopertips.com/cocoa/launching-your-own-application-via-a-custom-url-scheme.html)
+
 # Library and Frameworks
 
 ### Masonry
