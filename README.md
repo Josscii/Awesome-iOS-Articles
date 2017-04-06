@@ -106,7 +106,7 @@ A collection of the best articles that explaining topics on iOS.
 ### URL Schemes & Universal Links
 
 * [The Complete Tutorial on iOS/iPhone Custom URL Schemes](http://iosdevelopertips.com/cocoa/launching-your-own-application-via-a-custom-url-scheme.html)
-* [iOS 9.2 Update: The Fall of URI Schemes and the Rise of Universal Links](https://blog.branch.io/ios-9.2-redirection-update-uri-scheme-and-universal-links/)
+* [Deferred Deep Linking in iOS](http://tech.glowing.com/cn/deferred-deep-linking-and-branch-sdk-in-ios/)
 
 # Library and Frameworks
 
