@@ -34,6 +34,13 @@ A collection of the best articles that explaining topics on iOS.
 * [深入研究Block用weakSelf、strongSelf、@weakify、@strongify解决循环引用](http://www.jianshu.com/p/701da54bd78c)
 * [Tip: Avoid retain cycles without doing the strong to weak dance](http://iosdevtips.co/post/118711491198/avoid-retain-cycles-weak-strong)
 
+### Runloop
+
+* [RunLoop 总结：RunLoop的应用场景（一）](http://blog.csdn.net/u011619283/article/details/53433243)
+* [深入理解RunLoop](http://blog.ibireme.com/2015/05/18/runloop/)
+* [【iOS程序启动与运转】- RunLoop个人小结](http://www.jianshu.com/p/37ab0397fec7)
+* [再看CVE-2016-1757---浅析mach message的使用](http://turingh.github.io/2016/07/05/%E5%86%8D%E7%9C%8BCVE-2016-1757%E6%B5%85%E6%9E%90mach%20message%E7%9A%84%E4%BD%BF%E7%94%A8/)
+
 # Swift
 
 # iOS SDK
