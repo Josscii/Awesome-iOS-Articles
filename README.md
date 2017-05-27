@@ -41,6 +41,9 @@ A collection of the best articles that explaining topics on iOS.
 * [【iOS程序启动与运转】- RunLoop个人小结](http://www.jianshu.com/p/37ab0397fec7)
 * [再看CVE-2016-1757---浅析mach message的使用](http://turingh.github.io/2016/07/05/%E5%86%8D%E7%9C%8BCVE-2016-1757%E6%B5%85%E6%9E%90mach%20message%E7%9A%84%E4%BD%BF%E7%94%A8/)
 
+### Thread
+* [Thread Safety Basics on iOS/OS X](http://blog.parse.com/learn/thread-safety-basics-on-iosos-x/)
+
 # Swift
 
 # iOS SDK
