@@ -11,6 +11,7 @@ A collection of the best articles that explaining topics on iOS.
 - [Objective-C](#objective-c)
 - [Swift](#swift)
 - [iOS SDK](#ios-sdk)
+- [Performance](#performance)
 - [Library and Frameworks](#library-and-frameworks)
 - [Architecture](#architecture)
 - [Others](#others)
@@ -116,6 +117,11 @@ A collection of the best articles that explaining topics on iOS.
 
 * [The Complete Tutorial on iOS/iPhone Custom URL Schemes](http://iosdevelopertips.com/cocoa/launching-your-own-application-via-a-custom-url-scheme.html)
 * [Deferred Deep Linking in iOS](http://tech.glowing.com/cn/deferred-deep-linking-and-branch-sdk-in-ios/)
+
+# Performance
+
+### 16.667 FPS
+* [保持界面流畅的学习路径](https://gist.github.com/Josscii/22330cfdb3ec682e13e07b7ad4df56ca)
 
 # Library and Frameworks
 
