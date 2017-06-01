@@ -120,7 +120,8 @@ A collection of the best articles that explaining topics on iOS.
 
 # Performance
 
-### 16.667 FPS
+### 60 FPS
+
 * [保持界面流畅的学习路径](https://gist.github.com/Josscii/22330cfdb3ec682e13e07b7ad4df56ca)
 
 # Library and Frameworks
