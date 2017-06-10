@@ -143,9 +143,14 @@ A collection of the best articles that explaining topics on iOS.
 # Others
 
 ### 切图
+
 * [Pixel Density, Demystified(需翻)](https://medium.com/@pnowelldesign/pixel-density-demystified-a4db63ba2922#.z6k6c93ua)
 * [从视觉到App：网易有钱iOS项目切图与适配实践](http://www.infoq.com/cn/articles/netease-ios-vision-to-app/)
 * [The Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
+
+### 打包
+
+* [Using -exportArchive instead of Package Application to export an IPA](http://subathrathanabalan.com/2016/01/07/building-ipa-export-archive/)
 
 ***
 
