@@ -124,14 +124,15 @@ A collection of the best articles that explaining topics on iOS.
 
 * [保持界面流畅的学习路径](https://gist.github.com/Josscii/22330cfdb3ec682e13e07b7ad4df56ca)
 
+### Image
+
+* [ImageCachingBenchmark](https://github.com/bpoplauschi/ImageCachingBenchmark/)
+* [Async image loading and caching In TableViewCell](http://jamesonquave.com/blog/developing-ios-apps-using-swift-part-5-async-image-loading-and-caching/)
+
 # Library and Frameworks
 
 ### Masonry
 * [追求Masonry](http://www.jianshu.com/p/1841e6c69611)
-
-### Images
-
-* [ImageCachingBenchmark](https://github.com/bpoplauschi/ImageCachingBenchmark/)
 
 # Architecture
 
