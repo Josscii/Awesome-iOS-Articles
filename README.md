@@ -158,6 +158,10 @@ A collection of the best articles that explaining topics on iOS.
 * [小笨狼与LLDB的故事](http://www.jianshu.com/p/e89af3e9a8d7)
 * [小笨狼的LLDB技巧:chisel](http://www.jianshu.com/p/afaaacc55460)
 
+### Git
+
+* [Become a git guru](https://www.atlassian.com/git/tutorials)
+
 ***
 
 # Contribution
