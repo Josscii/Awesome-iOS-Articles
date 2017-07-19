@@ -113,6 +113,11 @@ A collection of the best articles that explaining topics on iOS.
 
 * [Tint Color and Template Images](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/UIKitUICatalog/)
 
+### UITableview
+
+* [Swift Image Cache](http://www.splinter.com.au/2015/09/24/swift-image-cache/)
+* [Asynchronous downloaded images with caching](http://khanlou.com/2012/08/asynchronous-downloaded-images-with-caching/)
+
 ### URL Schemes & Universal Links
 
 * [The Complete Tutorial on iOS/iPhone Custom URL Schemes](http://iosdevelopertips.com/cocoa/launching-your-own-application-via-a-custom-url-scheme.html)
@@ -127,7 +132,6 @@ A collection of the best articles that explaining topics on iOS.
 ### Image
 
 * [ImageCachingBenchmark](https://github.com/bpoplauschi/ImageCachingBenchmark/)
-* [Async image loading and caching In TableViewCell](http://jamesonquave.com/blog/developing-ios-apps-using-swift-part-5-async-image-loading-and-caching/)
 
 # Library and Frameworks
 
