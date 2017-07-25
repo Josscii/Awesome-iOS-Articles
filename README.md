@@ -35,18 +35,20 @@ A collection of the best articles that explaining topics on iOS.
 * [深入研究Block用weakSelf、strongSelf、@weakify、@strongify解决循环引用](http://www.jianshu.com/p/701da54bd78c)
 * [Tip: Avoid retain cycles without doing the strong to weak dance](http://iosdevtips.co/post/118711491198/avoid-retain-cycles-weak-strong)
 
-### Runloop
+# Swift
 
-* [RunLoop 总结：RunLoop的应用场景（一）](http://blog.csdn.net/u011619283/article/details/53433243)
+# iOS SDK
+
+### Layout pass
+* [Demystifying iOS Layout](http://tech.gc.com/demystifying-ios-layout/)
+
+### Runloop
 * [深入理解RunLoop](http://blog.ibireme.com/2015/05/18/runloop/)
+* [RunLoop 总结：RunLoop的应用场景（一）](http://blog.csdn.net/u011619283/article/details/53433243)
 * [【iOS程序启动与运转】- RunLoop个人小结](http://www.jianshu.com/p/37ab0397fec7)
 
 ### Thread
 * [Thread Safety Basics on iOS/OS X](http://blog.parse.com/learn/thread-safety-basics-on-iosos-x/)
-
-# Swift
-
-# iOS SDK
 
 ### Response Chain
 * [史上最详细的iOS之事件的传递和响应机制-原理篇](http://www.jianshu.com/p/2e074db792ba)
@@ -81,11 +83,9 @@ A collection of the best articles that explaining topics on iOS.
 * [AHKNavigationController](https://github.com/fastred/AHKNavigationController)
 
 ### UIStatusBar
-
 * [在iOS7中修改状态栏字体的颜色](http://blog.csdn.net/gaoyp/article/details/38441723) / [补充](https://gist.github.com/Josscii/51d5154583e38fef24a5380abdb18a0c)
 
 ### Text
-
 * [NSParagraphStyle Explained Visually](https://medium.com/@at_underscore/nsparagraphstyle-explained-visually-a8659d1fbd6f#.md3yj2pqw)
 * [UIFont Explained Visually](https://medium.com/@at_underscore/uifont-explained-visually-7de1a9c9f7a1#.5llg1dtv0)
 
@@ -98,39 +98,32 @@ A collection of the best articles that explaining topics on iOS.
 * [iOS 开发中，怎样用好 Notifications？](http://www.jianshu.com/p/f20b00c1fc24) `iOS 10` 
 
 ### UIWebView & WKWebView
-
 * [UIWebView Memory Leak Prevention](http://www.codercowboy.com/code-uiwebview-memory-leak-prevention/)
 * [WKWebView 那些坑](https://zhuanlan.zhihu.com/p/24990222)
 
 ### Assets Catalog
-
 * [4 XCODE ASSET CATALOG SECRETS YOU NEED TO KNOW](https://krakendev.io/blog/4-xcode-asset-catalog-secrets-you-need-to-know)
 * [Add a resizable area to an image](http://help.apple.com/xcode/mac/8.3/#/deve65bd8d0d)
 * [resizableImageWithCapInsets:方法的探析](http://www.jianshu.com/p/a577023677c1)
 * [补充](https://gist.github.com/Josscii/599c42c684b6ca8dc1831e0a4caed761)
 
 ### UIView
-
 * [Tint Color and Template Images](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/UIKitUICatalog/)
 
 ### UITableview
-
 * [Swift Image Cache](http://www.splinter.com.au/2015/09/24/swift-image-cache/)
 * [Asynchronous downloaded images with caching](http://khanlou.com/2012/08/asynchronous-downloaded-images-with-caching/)
 
 ### URL Schemes & Universal Links
-
 * [The Complete Tutorial on iOS/iPhone Custom URL Schemes](http://iosdevelopertips.com/cocoa/launching-your-own-application-via-a-custom-url-scheme.html)
 * [Deferred Deep Linking in iOS](http://tech.glowing.com/cn/deferred-deep-linking-and-branch-sdk-in-ios/)
 
 # Performance
 
 ### 60 FPS
-
 * [保持界面流畅的学习路径](https://gist.github.com/Josscii/22330cfdb3ec682e13e07b7ad4df56ca)
 
 ### Image
-
 * [ImageCachingBenchmark](https://github.com/bpoplauschi/ImageCachingBenchmark/)
 
 # Library and Frameworks
@@ -141,29 +134,24 @@ A collection of the best articles that explaining topics on iOS.
 # Architecture
 
 ### 网络层
-
 * [与时俱进，HTTP/2下的iOS网络层架构设计](http://www.jianshu.com/p/a9bca62d8dab)
 * [对比iOS网络组件：AFNetworking VS ASIHTTPRequest](http://www.infoq.com/cn/articles/afn_vs_asi)
 
 # Others
 
 ### 切图
-
 * [Pixel Density, Demystified(需翻)](https://medium.com/@pnowelldesign/pixel-density-demystified-a4db63ba2922#.z6k6c93ua)
 * [从视觉到App：网易有钱iOS项目切图与适配实践](http://www.infoq.com/cn/articles/netease-ios-vision-to-app/)
 * [The Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
 
 ### 打包
-
 * [Using -exportArchive instead of Package Application to export an IPA](http://subathrathanabalan.com/2016/01/07/building-ipa-export-archive/)
 
 ### 调试
-
 * [小笨狼与LLDB的故事](http://www.jianshu.com/p/e89af3e9a8d7)
 * [小笨狼的LLDB技巧:chisel](http://www.jianshu.com/p/afaaacc55460)
 
 ### Git
-
 * [Become a git guru](https://www.atlassian.com/git/tutorials)
 
 ***
