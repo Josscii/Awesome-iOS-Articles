@@ -99,6 +99,7 @@ A collection of the best articles that explaining topics on iOS.
 ### UIWebView & WKWebView
 * [UIWebView Memory Leak Prevention](http://www.codercowboy.com/code-uiwebview-memory-leak-prevention/)
 * [WKWebView 那些坑](https://zhuanlan.zhihu.com/p/24990222)
+* [源码分享：仿微信的WebViewProgress](http://lzcuriosity.github.io/2016/07/16/%E6%BA%90%E7%A0%81%E5%88%86%E4%BA%AB%EF%BC%9A%E4%BB%BF%E5%BE%AE%E4%BF%A1%E7%9A%84WebViewProgress/)
 
 ### Assets Catalog
 * [4 XCODE ASSET CATALOG SECRETS YOU NEED TO KNOW](https://krakendev.io/blog/4-xcode-asset-catalog-secrets-you-need-to-know)
