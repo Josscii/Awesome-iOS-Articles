@@ -37,6 +37,10 @@ A collection of the best articles that explaining topics on iOS.
 
 # Swift
 
+### Method Dispatch
+
+* [Method Dispatch in Swift](https://www.raizlabs.com/dev/2016/12/swift-method-dispatch/)
+
 # iOS SDK
 
 ### Layout pass
