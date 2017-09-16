@@ -52,6 +52,7 @@ A collection of the best articles that explaining topics on iOS.
 
 ### Thread
 * [Thread Safety Basics on iOS/OS X](http://blog.parse.com/learn/thread-safety-basics-on-iosos-x/)
+* [iOS多线程到底不安全在哪里？](http://mrpeak.cn/blog/ios-thread-safety/)
 
 ### Response Chain
 * [史上最详细的iOS之事件的传递和响应机制-原理篇](http://www.jianshu.com/p/2e074db792ba)
