@@ -20,6 +20,9 @@ A collection of the best articles that explaining topics on iOS.
 
 # Objective-C
 
+### Code Style
+* [Google Objective-C Style Guide](https://google.github.io/styleguide/objcguide.html)
+
 ### Runtime
 * [Understanding the Objective-C Runtime](http://cocoasamurai.blogspot.jp/2010/01/understanding-objective-c-runtime.html)
 
@@ -66,7 +69,11 @@ A collection of the best articles that explaining topics on iOS.
 * [iOS关于时间的处理](http://mrpeak.cn/blog/ios-time/)
 
 ### NSNumber
-* [iOS - Json解析精度丢失处理(NSString, Double, Float)](http://blog.csdn.net/u014063717/article/details/51862048)
+* [Currency & High Precision Numbers With NSDecimalNumber](http://iosdevelopertips.com/data-file-management/currency-high-precision-numbers-with-nsdecimalnumber.html)
+* [The Floating-Point Guide](http://floating-point-gui.de/)
+
+### NSUserDefaults
+* [A look at how to use, and not to use, NSUserDefaults in your programs](http://dscoder.com/defaults.html)
 
 ### Mask
 * [关于使用CALayer中mask的一些技巧](http://joeshang.github.io/2014/12/19/calayer-mask/)
