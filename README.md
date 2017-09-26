@@ -146,6 +146,9 @@ A collection of the best articles that explaining topics on iOS.
 ### Custom Transition
 * [iOS 视图控制器转场详解](https://github.com/seedante/iOS-Note/wiki/ViewController-Transition)
 
+### TextKit
+* [iOS: 利用TextKit实现UILabel的高亮、可交互](http://www.jianshu.com/p/29a893531ab3)
+
 # Performance
 
 ### 60 FPS
