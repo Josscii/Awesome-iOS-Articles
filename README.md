@@ -149,6 +149,9 @@ A collection of the best articles that explaining topics on iOS.
 ### TextKit
 * [iOS: 利用TextKit实现UILabel的高亮、可交互](http://www.jianshu.com/p/29a893531ab3)
 
+### UI
+* [如何设计一个 iOS 控件?(iOS 控件完全解析)](http://blog.csdn.net/zhangao0086/article/details/45622875)
+
 # Performance
 
 ### 60 FPS
