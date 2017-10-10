@@ -121,6 +121,10 @@ A collection of the best articles that explaining topics on iOS.
 * [resizableImageWithCapInsets:方法的探析](http://www.jianshu.com/p/a577023677c1)
 * [补充](https://gist.github.com/Josscii/599c42c684b6ca8dc1831e0a4caed761)
 
+### UIImage
+* [Resize a UIImage the right way](http://vocaro.com/trevor/blog/2009/10/12/resize-a-uiimage-the-right-way/)
+* [Image Resizing Techniques](http://nshipster.com/image-resizing/)
+
 ### UIView
 * [Tint Color and Template Images](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/UIKitUICatalog/)
 
