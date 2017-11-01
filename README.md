@@ -162,6 +162,9 @@ A collection of the best articles that explaining topics on iOS.
 * [我只是想要截个屏](http://blog.startry.com/2016/02/24/Screenshots-With-SwViewCapture/)
 * [Getting a screenshot of a UIScrollView, including offscreen parts](https://stackoverflow.com/questions/3539717/getting-a-screenshot-of-a-uiscrollview-including-offscreen-parts)
 
+### LaunchImage
+* [Tips:获取APP的Launch Image](http://adad184.com/2015/10/15/tips-access-current-launch-image/)
+
 # Performance
 
 ### 60 FPS
