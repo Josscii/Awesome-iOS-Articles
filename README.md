@@ -139,6 +139,7 @@ A collection of the best articles that explaining topics on iOS.
 * [Swift Image Cache](http://www.splinter.com.au/2015/09/24/swift-image-cache/)
 * [Asynchronous downloaded images with caching](http://khanlou.com/2012/08/asynchronous-downloaded-images-with-caching/)
 * [戏说CollectionView、TableView如何优雅应对变化的界面展示](http://zackzheng.info/2016/04/24/2016-04-24-handle-collectionview-tableview-with-grace/)
+* 不浮动的 section header [1](http://johnwong.github.io/mobile/2015/07/04/ios-quirks.html) [2](http://blog.csdn.net/hherima/article/details/51030113)
 
 ### URL Schemes & Universal Links
 * [The Complete Tutorial on iOS/iPhone Custom URL Schemes](http://iosdevelopertips.com/cocoa/launching-your-own-application-via-a-custom-url-scheme.html)
