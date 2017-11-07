@@ -52,6 +52,7 @@ A collection of the best articles that explaining topics on iOS.
 * [深入理解RunLoop](http://blog.ibireme.com/2015/05/18/runloop/)
 * [RunLoop 总结：RunLoop的应用场景（一）](http://blog.csdn.net/u011619283/article/details/53433243)
 * [【iOS程序启动与运转】- RunLoop个人小结](http://www.jianshu.com/p/37ab0397fec7)
+* [iOS 事件处理机制与图像渲染过程](http://www.cnblogs.com/yulang314/p/5091894.html)
 
 ### Thread
 * [Thread Safety Basics on iOS/OS X](http://blog.parse.com/learn/thread-safety-basics-on-iosos-x/)
