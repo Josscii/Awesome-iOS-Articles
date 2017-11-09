@@ -172,8 +172,8 @@ A collection of the best articles that explaining topics on iOS.
 # Performance
 
 ### Scroll
-* [保持界面流畅的学习路径](https://gist.github.com/Josscii/22330cfdb3ec682e13e07b7ad4df56ca)
-* [iOS Scroll Performance Tutorial](https://tech.okcupid.com/ios-performance-tutorial-from-okcupid/)
+* [保持界面流畅的学习路径](https://gist.github.com/Josscii/22330cfdb3ec682e13e07b7ad4df56ca) 💥💥💥💥💥
+* [iOS Scroll Performance Tutorial](https://tech.okcupid.com/ios-performance-tutorial-from-okcupid/) 💥💥💥💥💥
 
 ### Image
 * [ImageCachingBenchmark](https://github.com/bpoplauschi/ImageCachingBenchmark/)
