@@ -199,6 +199,9 @@ A collection of the best articles that explaining topics on iOS.
 ### 打包
 * [Using -exportArchive instead of Package Application to export an IPA](http://subathrathanabalan.com/2016/01/07/building-ipa-export-archive/)
 
+### 证书
+* [iOS Provisioning Profile(Certificate)与Code Signing详解](http://blog.csdn.net/phunxm/article/details/42685597/)
+
 ### 调试
 * [小笨狼与LLDB的故事](http://www.jianshu.com/p/e89af3e9a8d7)
 * [小笨狼的LLDB技巧:chisel](http://www.jianshu.com/p/afaaacc55460)
