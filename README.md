@@ -56,9 +56,11 @@ A collection of the best articles that explaining topics on iOS.
 * [iOS刨根问底-深入理解RunLoop](http://www.cnblogs.com/kenshincui/p/6823841.html)
 
 ### Thread
-* [Thread Safety Basics on iOS/OS X](http://blog.parse.com/learn/thread-safety-basics-on-iosos-x/)
 * [iOS多线程到底不安全在哪里？](http://mrpeak.cn/blog/ios-thread-safety/)
 * [从一道网易面试题浅谈OC线程安全](http://www.jianshu.com/p/cec2a41aa0e7)
+* [深入理解 iOS 开发中的锁](http://blog.csdn.net/abc649395594/article/details/52747864)
+* [pthread的各种同步机制](https://casatwy.com/pthreadde-ge-chong-tong-bu-ji-zhi.html)
+* [libpthread 源码](https://opensource.apple.com/tarballs/libpthread/)
 
 ### Response Chain
 * [史上最详细的iOS之事件的传递和响应机制-原理篇](http://www.jianshu.com/p/2e074db792ba)
