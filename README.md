@@ -212,6 +212,8 @@ A collection of the best articles that explaining topics on iOS.
 
 ### Git
 * [Become a git guru](https://www.atlassian.com/git/tutorials)
+* [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction)
+* [Pro Git book](https://git-scm.com/book/en/v2)
 
 ### 正则表达式
 * [regular-expressions.info](http://www.regular-expressions.info/)
