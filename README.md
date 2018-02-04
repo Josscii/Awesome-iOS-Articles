@@ -64,6 +64,7 @@ A collection of the best articles that explaining topics on iOS.
 
 ### GCD
 * [Using dispatch groups to wait for multiple web services](http://commandshift.co.uk/blog/2014/03/19/using-dispatch-groups-to-wait-for-multiple-web-services/)
+* [manpagez: man pages & more man dispatch_group_async](http://www.manpagez.com/man/3/dispatch_group_async/)
 
 ### Response Chain
 * [史上最详细的iOS之事件的传递和响应机制-原理篇](http://www.jianshu.com/p/2e074db792ba)
