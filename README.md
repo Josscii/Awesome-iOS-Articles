@@ -62,6 +62,9 @@ A collection of the best articles that explaining topics on iOS.
 * [pthread的各种同步机制](https://casatwy.com/pthreadde-ge-chong-tong-bu-ji-zhi.html)
 * [libpthread 源码](https://opensource.apple.com/tarballs/libpthread/)
 
+### GCD
+*[Using dispatch groups to wait for multiple web services](http://commandshift.co.uk/blog/2014/03/19/using-dispatch-groups-to-wait-for-multiple-web-services/)
+
 ### Response Chain
 * [史上最详细的iOS之事件的传递和响应机制-原理篇](http://www.jianshu.com/p/2e074db792ba)
 * [iOS事件响应链中Hit-Test View的应用](http://www.jianshu.com/p/d8512dff2b3e)
