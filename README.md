@@ -177,6 +177,9 @@ A collection of the best articles that explaining topics on iOS.
 ### LaunchImage
 * [Tips:获取APP的Launch Image](http://adad184.com/2015/10/15/tips-access-current-launch-image/)
 
+### Keyboard
+* [Animating in sync with the iOS keyboard](http://pyl.io/2015/08/17/animating-in-sync-with-ios-keyboard/)
+
 # Performance
 
 ### Scroll
