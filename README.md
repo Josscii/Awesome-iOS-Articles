@@ -27,6 +27,7 @@ A collection of the best articles that explaining topics on iOS.
 * [Understanding the Objective-C Runtime](http://cocoasamurai.blogspot.jp/2010/01/understanding-objective-c-runtime.html)
 
 ### Copy & MutableCopy
+* [iOS 中的 Copying](http://joeshang.github.io/2018/04/04/ios-copying/)
 * [iOS 集合的深复制与浅复制](https://www.zybuluo.com/MicroCai/note/50592)
 
 ### 预编译和宏
@@ -184,8 +185,8 @@ A collection of the best articles that explaining topics on iOS.
 # Performance
 
 ### Scroll
-* [保持界面流畅的学习路径](https://gist.github.com/Josscii/22330cfdb3ec682e13e07b7ad4df56ca) 💥💥💥💥💥
-* [iOS Scroll Performance Tutorial](https://tech.okcupid.com/ios-performance-tutorial-from-okcupid/) 💥💥💥💥💥
+* [保持界面流畅的学习路径](https://gist.github.com/Josscii/22330cfdb3ec682e13e07b7ad4df56ca)
+* [iOS Scroll Performance Tutorial](https://tech.okcupid.com/ios-performance-tutorial-from-okcupid/)
 
 ### Image
 * [ImageCachingBenchmark](https://github.com/bpoplauschi/ImageCachingBenchmark/)
