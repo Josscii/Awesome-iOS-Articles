@@ -169,6 +169,7 @@ A collection of the best articles that explaining topics on iOS.
 ### UI
 * [如何设计一个 iOS 控件?(iOS 控件完全解析)](http://blog.csdn.net/zhangao0086/article/details/45622875)
 * [iOS 文本对齐，如何像素般精确还原设计稿](https://zhuanlan.zhihu.com/p/27572662)
+* [iOS Safe Area](https://medium.com/rosberryapps/ios-safe-area-ca10e919526f)
 
 ### 截图
 * [我只是想要截个屏](http://blog.startry.com/2016/02/24/Screenshots-With-SwViewCapture/)
