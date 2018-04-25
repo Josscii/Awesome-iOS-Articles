@@ -157,6 +157,7 @@ A collection of the best articles that explaining topics on iOS.
 * [The Complete Tutorial on iOS/iPhone Custom URL Schemes](http://iosdevelopertips.com/cocoa/launching-your-own-application-via-a-custom-url-scheme.html)
 * [Deferred Deep Linking in iOS](http://tech.glowing.com/cn/deferred-deep-linking-and-branch-sdk-in-ios/)
 * [iOS: How to open Deep Links, Notifications and Shortcuts](https://medium.com/ios-os-x-development/ios-how-to-open-deep-links-notifications-and-shortcuts-253fb38e1696)
+* [iOS app与浏览器深度链接 DeeperLink](http://awhisper.github.io/2016/05/11/iOSBrowserDomainBridge/)
 
 ### InterfaceBuilder
 * [Using Interface Builder at Lyft](http://scottberrevoets.com/2017/03/06/using-interface-builder-at-lyft/)
