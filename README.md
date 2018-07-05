@@ -233,6 +233,9 @@ A collection of the best articles that explaining topics on iOS.
 ### Crash
 * [Crash 符号化](http://saitjr.com/tags/crash/)
 
+### 广告
+* [iOS - 广告标识符（IDFA & IDFV）](https://www.jianshu.com/p/8e2846dc8a03)
+
 ### Git
 * [Become a git guru](https://www.atlassian.com/git/tutorials)
 * [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction)
