@@ -76,6 +76,7 @@ A collection of the best articles that explaining topics on iOS.
 
 ### NSTimer
 * [NSTimer和实现弱引用的timer的方式](http://blog.csdn.net/yohunl/article/details/50614903)
+* [更可靠和高精度的 iOS 定时器](http://blog.lessfun.com/blog/2016/08/05/reliable-timer-in-ios/)
 
 ### NSDate
 * [iOS时间那点事](https://my.oschina.net/yongbin45/blog/150114)
