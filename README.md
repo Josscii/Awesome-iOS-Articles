@@ -191,6 +191,10 @@ A collection of the best articles that explaining topics on iOS.
 ### URL Loading System
 * [基于NSURLCache的缓存实现](https://techblog.toutiao.com/2018/06/01/untitled-33/)
 
+### Idea
+
+* [iOS资讯详情页实现—WebView和TableView混合使用](https://www.jianshu.com/p/3721d736cf68)
+
 # Performance
 
 ### Scroll
