@@ -212,6 +212,11 @@ A collection of the best articles that explaining topics on iOS.
 ### Masonry
 * [追求Masonry](http://www.jianshu.com/p/1841e6c69611)
 
+# Source Code
+
+### AFNetworking
+* [AFNetWorking源码之AFHTTPSessionManager](https://huang303513.github.io/2017/04/20/AFNetWorking%E6%BA%90%E7%A0%81%E4%B9%8BAFHTTPSessionManager.html)
+
 # Architecture
 
 ### 网络层
