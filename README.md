@@ -187,7 +187,7 @@ A collection of the best articles that explaining topics on iOS.
 * [Tips:获取APP的Launch Image](http://adad184.com/2015/10/15/tips-access-current-launch-image/)
 
 ### Keyboard
-* [Working with the Keyboard on iOS](http://macoscope.com/blog/working-with-keyboard-on-ios/)
+* [The Keys to a Better Text Input Experience](https://developer.apple.com/videos/play/wwdc2017/242/)
 
 ### URL Loading System
 * [基于NSURLCache的缓存实现](https://techblog.toutiao.com/2018/06/01/untitled-33/)
