@@ -246,8 +246,11 @@ A collection of the best articles that explaining topics on iOS.
 ### Crash
 * [Crash 符号化](http://saitjr.com/tags/crash/)
 
-### 广告
+### 设备唯一标识符
 * [iOS - 广告标识符（IDFA & IDFV）](https://www.jianshu.com/p/8e2846dc8a03)
+* [ios获取手机唯一标识符（标识符的详细使用）](http://www.hudongdong.com/oc/262.html)
+* [iOS设备唯一标识符探讨](http://tech.zsgjs.com/2016/05/03/ios%E8%AE%BE%E5%A4%87%E5%94%AF%E4%B8%80%E6%A0%87%E8%AF%86%E7%AC%A6%E6%8E%A2%E8%AE%A8/)
+* [关于IOS唯一标识研究](https://www.jianshu.com/p/47085f337c03)
 
 ### Git
 * [Become a git guru](https://www.atlassian.com/git/tutorials)
