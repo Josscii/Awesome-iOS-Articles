@@ -49,6 +49,7 @@ A collection of the best articles that explaining topics on iOS.
 
 ### Method Dispatch
 * [Method Dispatch in Swift](https://www.raizlabs.com/dev/2016/12/swift-method-dispatch/)
+* [@objc and dynamic](https://swiftunboxed.com/interop/objc-dynamic/)
 
 # iOS SDK
 
