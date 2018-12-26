@@ -153,7 +153,7 @@ A collection of the best articles that explaining topics on iOS.
 * [Tint Color and Template Images](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/UIKitUICatalog/)
 
 ### UIWindow
-* [UIWindow in iOS](http://www.fantageek.com/2014/08/28/uiwindow-in-ios/)
+* [UIWindow in iOS（已失效）](http://www.fantageek.com/2014/08/28/uiwindow-in-ios/) [中文](https://jkyin.me/uiwindow/)
 * [浅谈iOS的多Window处理](https://satanwoo.github.io/2016/09/17/uiwindow-iOS/)
 
 ### UIButton
