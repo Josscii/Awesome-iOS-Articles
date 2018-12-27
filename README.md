@@ -79,6 +79,7 @@ A collection of the best articles that explaining topics on iOS.
 * [史上最详细的iOS之事件的传递和响应机制-原理篇](http://www.jianshu.com/p/2e074db792ba)
 * [iOS事件响应链中Hit-Test View的应用](http://www.jianshu.com/p/d8512dff2b3e)
 * [Hit-Testing in iOS](http://smnh.me/hit-testing-in-ios/)
+* [iOS触控响应中那些没有细想过的问题](https://ronghaopger.github.io/2017/12/iOS%E8%A7%A6%E6%8E%A7%E5%93%8D%E5%BA%94%E4%B8%AD%E9%82%A3%E4%BA%9B%E6%B2%A1%E6%9C%89%E7%BB%86%E6%83%B3%E8%BF%87%E7%9A%84%E9%97%AE%E9%A2%98/)
 
 ### NSTimer
 * [NSTimer和实现弱引用的timer的方式](http://blog.csdn.net/yohunl/article/details/50614903)
