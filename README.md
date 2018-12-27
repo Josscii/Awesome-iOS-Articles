@@ -207,6 +207,9 @@ A collection of the best articles that explaining topics on iOS.
 ### ViewController LifeCycle
 * [再见，viewDidUnload方法](http://blog.devtang.com/2013/05/18/goodbye-viewdidunload/)
 
+### Orientation
+* [iOS屏幕旋转及其基本适配方法](https://cloud.tencent.com/developer/article/1106957)
+
 # Performance
 
 ### Scroll
