@@ -262,6 +262,7 @@ A collection of the best articles that explaining topics on iOS.
 
 ### Crash
 * [Crash 符号化](http://saitjr.com/tags/crash/)
+* [Understanding and Analyzing Application Crash Reports](https://developer.apple.com/library/archive/technotes/tn2151/_index.html#//apple_ref/doc/uid/DTS40008184-CH1-INTRODUCTION)
 
 ### 设备唯一标识符
 * [iOS - 广告标识符（IDFA & IDFV）](https://www.jianshu.com/p/8e2846dc8a03)
