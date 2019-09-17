@@ -282,6 +282,10 @@ A collection of the best articles that explaining topics on iOS.
 
 * [GRDB](https://github.com/groue/GRDB.swift)
 
+### Cocoapods
+
+* [用 CocoaPods 私有库提高团队的整体效率](https://swiftcafe.io/post/cocoapods-private)
+
 ***
 
 # Contribution
