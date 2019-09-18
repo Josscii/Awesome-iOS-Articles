@@ -199,7 +199,7 @@ A collection of the best articles that explaining topics on iOS.
 
 ### Keyboard
 * [The Keys to a Better Text Input Experience](https://developer.apple.com/videos/play/wwdc2017/242/)
-* [Animating in sync with the iOS keyboard](http://pyl.io/2015/08/17/animating-in-sync-with-ios-keyboard/)
+* [Animating Around the iOS Keyboard](https://spin.atomicobject.com/2014/01/08/animate-around-ios-keyboard/)
 
 ### URL Loading System
 * [基于NSURLCache的缓存实现](https://techblog.toutiao.com/2018/06/01/untitled-33/)
